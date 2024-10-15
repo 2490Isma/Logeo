@@ -1,6 +1,7 @@
 /* Estilo general */
 body {
     font-family: monospace ;
+    font-size: xx-large ;
     background-color: #868ce0;
     color: #333;
     margin: 2;
@@ -9,6 +10,7 @@ body {
 
 /* Encabezados */
 h1 {
+    font-size: 100px;
     color: #7135e9;
     text-align: center;
 }
